@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabiconcept
 - 👀 I’m interested in Football 
-- 🌱 I’m currently learning *~~React.js~~* **Solidity**
+- 🌱 I’m currently learning *~~React.js~~* *~~Solidity~~* *Next.Js*
 - 💞️ I’m looking to collaborate on creative open source projects
 - 📫 How to reach me favourajokubi@gmail.com
 
