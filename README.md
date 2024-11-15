@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Favour Tochukwu Ajokubi, but you can call me Favour.
 
 ## About Me
-I'm a passionate frontend developer from Nigeria with a love for crafting beautiful digital experiences. I've worked as a web3 developer at OFFRCloud, where I built landing pages, DApp systems, and smart contracts for tokens, token sales, and dividend management.
+I've spent the last 5+ years building and scaling software for innovative companies across various industries. I also teach online painting classes—perfect if you've got an empty canvas waiting to be filled 🎨. Let's connect!
 
 ## Tech Stack
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Solidity (Smart Contracts)
-- **Frameworks/Libraries:** React, Redux, Next.js, EtherJs
-- **Tools:** Firebase, GitHub, Vercel
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Solidity (Smart Contracts), Vanilla PHP, 
+- **Frameworks/Libraries:** React, Redux, Next.js, EtherJs, Laravel
+- **Tools:** Firebase, GitHub, Vercel, DigitalOcean
 - **Styling:** Tailwind, Bootstrap
-- **Other Tech:** Remix for Ethereum, Web3 JS
+- **Other Tech:** Remix for Ethereum, Web3 JS, Figma.
 
 ## Freelancing and Seeking Opportunities
 I'm currently a freelancer actively seeking new opportunities to apply my frontend development skills and passion for aesthetics. I believe in merging code and design seamlessly to create impactful user experiences.
