@@ -34,7 +34,7 @@ Explore more projects on my [portfolio](https://fabiconcept.online).
 I'm deepening my expertise in:
 
 * **System Design:** Building scalable architectures.
-* **Backend Development:** Enhancing APIs with Next.js and MongoDB.
+* **Backend Development:** Enhancing APIs with Next.js, Node with Express, MongoDB and a couple more tools. 
 * **TypeScript:** Leveraging its capabilities for robust applications.
 
 ---
